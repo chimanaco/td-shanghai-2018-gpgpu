@@ -5,6 +5,7 @@
 .jpg
 *.mov
 *.tif
+*.pptx
 Backup/
 tox/.jpg
 *.*.toe
